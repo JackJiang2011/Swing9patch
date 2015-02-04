@@ -2,7 +2,7 @@
 Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 工程内的UI组件或效果都可方便地抽取出来用于您的项目。<br>
 <br>
-:bulb: 本工程是 **[:octocat: BeautyEye](https://github.com/JackJiang2011/beautyeye)** 的衍生工程，开发于2012年底`。
+:bulb: 本工程是 **[:octocat: BeautyEye](https://github.com/JackJiang2011/beautyeye)** 的衍生工程，开发于2012年底。
 
 # Demo下载
 :paperclip: [点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/dist/Swing9patch.jar)
