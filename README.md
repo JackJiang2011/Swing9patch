@@ -12,15 +12,15 @@ Swing9patch工程是一组利用 **[:octocat: BeautyEye](https://github.com/Jack
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/tooltip2.png)
 
 ### 组件2：一个不规则形状、透明边缘的固定位置"信息提示"UI组件实现
-特性说明：此组件在显示后可自动消失、单击也会自动消失。
+:bulb: 特性说明：此组件在显示后可自动消失、单击也会自动消失。<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip2.png)<br>
 
 ### 组件3：一个不规则形状、透明边缘的像框效果实现
-说明：参考此效果的实现，可以非容易地实现各种异形窗体效果。
+:bulb: 说明：参考此效果的实现，可以非容易地实现各种异形窗体效果。<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe_demo3.png)
 
 ### 组件4：一个仿Android的Toast（信息提示）UI组件实现
-特性说明：此组件在显示后可自动消失（消失时有渐变动画效果）、可拖动。
+:bulb: 特性说明：此组件在显示后可自动消失（消失时有渐变动画效果）、可拖动。<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/toast_small_normal.png)<br>
 
 ## 联系方式
