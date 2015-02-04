@@ -9,7 +9,8 @@ Swing9patch工程是一组利用 **[:octocat: BeautyEye](https://github.com/Jack
 
 # 预览和截图
 ### 组件1：一个不规则形状、透明边缘的Tooltip实现
-![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/tooltip1.png)
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/tooltip1.png)<br>
+
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/tooltip2.png)
 
 ## 联系方式
