@@ -14,7 +14,7 @@ Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 
 ### :triangular_flag_on_post: 组件2：一个不规则形状的固定位置"信息提示"UI组件实现
 :bulb: 特性说明：透明边缘、显示后可自动消失、单击也会自动消失。<br>
-![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip2.png)<br>
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip3.png)<br>
 
 ### :triangular_flag_on_post: 组件3：一个不规则形状、透明边缘的像框效果实现
 :bulb: 说明：参考此效果的实现，可以非容易地实现各种异形窗体效果。<br>
