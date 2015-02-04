@@ -14,7 +14,7 @@ Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 
 ### :triangular_flag_on_post: 组件2：一个不规则形状、固定位置"信息提示"组件
 :bulb: 特性说明：透明边缘、显示后可自动消失、单击也会自动消失。<br>
-`:bulb: 应用场景：登陆时密码输入错误时的信息提示等。`<br>
+`**应用场景**：登陆时密码输入错误时的信息提示等。`<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip3.png)<br>
 
 ### :triangular_flag_on_post: 组件3：一个不规则形状、透明边缘的像框效果
@@ -23,7 +23,7 @@ Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 
 ### :triangular_flag_on_post: 组件4：一个仿Android的Toast组件
 :bulb: 特性说明：显示后可自动消失（消失时有渐变动画效果）、可拖动。<br>
-`:bulb: 应用场景：界面数据保存成功时的提示信息等。`<br>
+`**应用场景**：界面数据保存成功时的提示信息等。`<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/toast_small_normal.png)<br>
 
 ## 联系方式
