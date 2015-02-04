@@ -23,7 +23,7 @@ Swing9patch工程是一组利用 **[:octocat: BeautyEye](https://github.com/Jack
 说明：参考此效果的实现，可以非容易地实现各种异形窗体效果。
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe1.png)<br>
 
-![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe_demo.png)
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe_demo3.png)
 
 ### 组件4：一个仿Android的Toast（信息提示）UI组件实现
 特性说明：此组件在显示后可自动消失（消失时有渐变动画效果）、可拖动。
