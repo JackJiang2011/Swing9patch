@@ -39,3 +39,4 @@ Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 
 ## 作者的其它工程
 * ![](https://raw.githubusercontent.com/JackJiang2011/beautyeye/master/screenshots/beautyeye_logo_h.png) 一款开源Java Swing外观（look and feel）实现，[:octocat: 点击进入](https://github.com/JackJiang2011/beautyeye)。<br>
+* **DroidUIBuilder**：一款开源Android GUI设计工具（已于2012年底停止开发），[:octocat: 点击进入](https://github.com/JackJiang2011/DroidUIBuilder)。
