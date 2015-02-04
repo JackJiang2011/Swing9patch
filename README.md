@@ -13,6 +13,24 @@ Swing9patch工程是一组利用 **[:octocat: BeautyEye](https://github.com/Jack
 
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/tooltip2.png)
 
+### 组件2：一个不规则形状、透明边缘的固定位置"信息提示"UI组件实现
+特性说明：此组件在显示后可自动消失、单击也会自动消失。
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip2.png)<br>
+
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip1.png)
+
+### 组件3：一个不规则形状、透明边缘的像框效果实现
+说明：参考此效果的实现，可以非容易地实现各种异形窗体效果。
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe1.png)<br>
+
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe_demo.png)
+
+### 组件4：一个仿Android的Toast（信息提示）UI组件实现
+特性说明：此组件在显示后可自动消失（消失时有渐变动画效果）、可拖动。
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/toast_small_normal.png)<br>
+
+![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/toast_big_normal.png)
+
 ## 联系方式
 * 如有建议等，请邮件至：:love_letter: `jb2011@163.com`；</li>
 * 欢迎加入Java Swing爱好者讨论QQ群：`259448663`  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=9971fb1d1845edc87bdec92ad03f329c1d1f280b1cfe73b6d03c13b0f7f8aba1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java Swing技术交流" title="Java Swing技术交流"></a>；
