@@ -8,20 +8,22 @@ Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 :paperclip: [点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/dist/Swing9patch.jar)
 
 # 预览和截图
-### :triangular_flag_on_post: 组件1：一个很酷的Tooltip实现
+### :triangular_flag_on_post: 组件1：一个很酷的Tooltip
 :bulb: 特性说明：不规则形状、透明边缘。<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/tooltip2.png)
 
-### :triangular_flag_on_post: 组件2：一个不规则形状的固定位置"信息提示"UI组件实现
+### :triangular_flag_on_post: 组件2：一个不规则形状、固定位置"信息提示"组件
 :bulb: 特性说明：透明边缘、显示后可自动消失、单击也会自动消失。<br>
+:thumbsup: `应用场景：登陆时密码输入错误时的信息提示等。`<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/fixtip3.png)<br>
 
-### :triangular_flag_on_post: 组件3：一个不规则形状、透明边缘的像框效果实现
-:bulb: 说明：参考此效果的实现，可以非容易地实现各种异形窗体效果。<br>
+### :triangular_flag_on_post: 组件3：一个不规则形状、透明边缘的像框效果
+:bulb: 说明：参考此效果的实现，可非常容易地实现各种异形窗体效果。<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/photoframe_demo3.png)
 
-### :triangular_flag_on_post: 组件4：一个仿Android的Toast的UI组件实现
+### :triangular_flag_on_post: 组件4：一个仿Android的Toast组件
 :bulb: 特性说明：显示后可自动消失（消失时有渐变动画效果）、可拖动。<br>
+:thumbsup: `应用场景：界面数据保存成功时的提示信息等。`<br>
 ![](https://raw.githubusercontent.com/JackJiang2011/Swing9patch/master/screenshots/toast_small_normal.png)<br>
 
 ## 联系方式
@@ -32,7 +34,7 @@ Swing9patch工程是一组很酷的Java Swing可重用组件或UI效果。<br>
 
 ## 关于作者
 ![](https://raw.githubusercontent.com/JackJiang2011/beautyeye/master/screenshots/js2.png)<br>
-计算机科学与技术本科，现业从移动互联网和智能穿戴应用领域；<br>
+计算机科学与技术本科，现从业于移动互联网和智能穿戴应用领域；<br>
 > <b>职业生涯：</b>程序员、项目经理、技术总监；<br>
 > <b>编码技能：</b>JavaME、JavaSE、JavaEE、Android、iOS等平台应用层开发；<br>
 > <b>实践经验：</b>多年的软件开发、项目管理、团队管理以及创业公司操盘经历，在软件开发体系和团队建设、项目开发和管理、中大型企业应用、移动互联网应用的持续开发/实施/集成/运维和信息化建设等方面拥有较丰富的实践经验，领域知识涉及传统企业桌面应用、企业分布式互联网应用、新一代移动互联网和智能穿戴应用等。
